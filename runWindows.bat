@@ -1,0 +1,1 @@
+java -cp bin;target\classes -Djava.library.path=bin javatraining.module2.NativeTest

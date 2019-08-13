@@ -1,0 +1,1 @@
+ java -cp `pwd`/bin:`pwd`/target/classes -Djava.library.path=`pwd`/bin javatraining.module2.NativeTest
